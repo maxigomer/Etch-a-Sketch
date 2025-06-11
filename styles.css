@@ -1,0 +1,16 @@
+.square {
+    width: calc(100%/16);
+    
+}
+
+
+#container{
+   width: 99vw;
+   height: 98vh; 
+}
+
+.divContainer{
+    display:flex;
+    width: 99vw;
+    height: calc(100%/16);
+}
